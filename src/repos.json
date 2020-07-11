@@ -1,0 +1,96 @@
+[
+    { 
+        "id": 1,
+        "name": "HTML, Git & CSS",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-1",
+        "siteUrl": "https://joel-clifford-bootcamp.github.io/homework-1/",
+        "uses": "HTML & CSS"
+    },
+    { 
+        "id": 2,
+        "name": "Responseive Portfolio",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-2",
+        "siteUrl": "https://joel-clifford-bootcamp.github.io/homework-2",
+        "uses": "HTML, CSS & Bootstrap"
+    },
+    { 
+        "id": 3,
+        "name": "Password Generator",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-3",
+        "siteUrl": "https://joel-clifford-bootcamp.github.io/homework-3/",
+        "uses": "Javascript"
+    },
+    { 
+        "id": 4,
+        "name": "Coding Quiz",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-4",
+        "siteUrl": "https://joel-clifford-bootcamp.github.io/homework-4/",
+        "uses": "Bootstrap & JQuery"
+    },
+    { 
+        "id": 5,
+        "name": "Day Planner",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-5",
+        "siteUrl": "https://joel-clifford-bootcamp.github.io/homework-5/",
+        "uses": "JQuery & Moment.js"
+    },
+    { 
+        "id": 6,
+        "name": "Weather Dashboard",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-6",
+        "siteUrl": "https://joel-clifford-bootcamp.github.io/homework-6/",
+        "uses": "AJAX & OpenWeather API"
+    },
+    { 
+        "id": 9,
+        "name": "README Generator",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-9",
+        "uses": "Node.js & Inquirer.js"
+    },
+    { 
+        "id": 10,
+        "name": "Team Profile Generator",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-10",
+        "uses": "Inquirer & JEST"
+    },
+    { 
+        "id": 11,
+        "name": "Note Taker",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-11",
+        "uses": "Node.js and Express"
+    },
+    { 
+        "id": 12,
+        "name": "Employee Tracker",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-12",
+        "uses": "MySQL, random-names-generator & Inquirer.js"
+    },
+    { 
+        "id": 13,
+        "name": "Eat-Da-Burger",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-13",
+        "siteUrl": "https://eat-da-burger-jc.herokuapp.com/",
+        "uses": "Express & Handlebars.js"
+    },
+    { 
+        "id": 17,
+        "name": "Workout Tracker",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-17",
+        "siteUrl": "https://workout-tracker-jc.herokuapp.com/",
+        "uses": "Express & Mongoose"
+    },
+    { 
+        "id": 18,
+        "name": "Budget Tracker",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-18",
+        "siteUrl": "https://pwa-budget-tools.herokuapp.com/",
+        "uses": "Express, Mondoose & IndexedDb"
+    },
+    { 
+        "id": 19,
+        "name": "Employee Directory",
+        "repoUrl": "https://github.com/joel-clifford-bootcamp/homework-19",
+        "siteUrl": "awesome-bassi-7c68ba.netlify.app/",
+        "uses": "React"
+    }
+]
